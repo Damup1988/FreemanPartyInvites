@@ -39,3 +39,4 @@ D:\_ONEDRIVE\OneDrive\_Coding\_Projects\Freeman\PartyInvites\obj\Debug\net5.0\re
 D:\_ONEDRIVE\OneDrive\_Coding\_Projects\Freeman\PartyInvites\obj\Debug\net5.0\PartyInvites.pdb
 D:\_ONEDRIVE\OneDrive\_Coding\_Projects\Freeman\PartyInvites\obj\Debug\net5.0\PartyInvites.genruntimeconfig.cache
 D:\_ONEDRIVE\OneDrive\_Coding\_Projects\Freeman\PartyInvites\obj\Debug\net5.0\PartyInvites.csproj.CopyComplete
+D:\_ONEDRIVE\OneDrive\_Coding\_Projects\Freeman\PartyInvites\obj\Debug\net5.0\Razor\Views\Home\RsvpForm.cshtml.g.cs

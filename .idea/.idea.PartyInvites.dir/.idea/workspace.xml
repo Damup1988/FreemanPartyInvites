@@ -4,11 +4,9 @@
     <projectFile>PartyInvites.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd04eb4-df3b-4c6c-b51d-8fc861db9ab4" name="Default Changelist" comment="Init commit">
-      <change afterPath="$PROJECT_DIR$/Models/GuestResponse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PartyInvites.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartyInvites.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="afd04eb4-df3b-4c6c-b51d-8fc861db9ab4" name="Default Changelist" comment="Chapter 3 - Adding a Data Model">
+      <change afterPath="$PROJECT_DIR$/Views/Home/RsvpForm.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +22,10 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
       <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
       <option value="$PROJECT_DIR$/Models/GuestResponse.cs" />
+      <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
+      <option value="$PROJECT_DIR$/Views/Home/RsvpForm.cshtml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vmWeA5OgTEE06ZoYjIYjgENRD6" />
@@ -85,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627167837119</updated>
-      <workItem from="1627167841135" duration="773000" />
+      <workItem from="1627167841135" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <created>1627167912328</created>
@@ -94,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627167912328</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chapter 3 - Adding a Data Model">
+      <created>1627168633454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627168633454</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+    <MESSAGE value="Chapter 3 - Adding a Data Model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 - Adding a Data Model" />
   </component>
 </project>
