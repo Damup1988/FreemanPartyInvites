@@ -4,9 +4,9 @@
     <projectFile>PartyInvites.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd04eb4-df3b-4c6c-b51d-8fc861db9ab4" name="Default Changelist" comment="Chapter 3 - Receiving Form Data">
-      <change afterPath="$PROJECT_DIR$/Models/Repository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PartyInvites.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PartyInvites.dir/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="afd04eb4-df3b-4c6c-b51d-8fc861db9ab4" name="Default Changelist" comment="Chapter 3 - Understanding Model Binding">
+      <change afterPath="$PROJECT_DIR$/Views/Home/Thanks.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +28,9 @@
       <option value="$PROJECT_DIR$/Models/GuestResponse.cs" />
       <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
       <option value="$PROJECT_DIR$/Views/Home/RsvpForm.cshtml" />
-      <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
       <option value="$PROJECT_DIR$/Models/Repository.cs" />
+      <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
+      <option value="$PROJECT_DIR$/Views/Home/Thanks.cshtml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vmWeA5OgTEE06ZoYjIYjgENRD6" />
@@ -88,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627167837119</updated>
-      <workItem from="1627167841135" duration="4699000" />
+      <workItem from="1627167841135" duration="5198000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <created>1627167912328</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627170841693</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chapter 3 - Understanding Model Binding">
+      <created>1627222561685</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627222561685</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +166,7 @@
     <MESSAGE value="Chapter 3 - Creating a Second Action and View" />
     <MESSAGE value="Chapter 3 - Building the Form" />
     <MESSAGE value="Chapter 3 - Receiving Form Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 - Receiving Form Data" />
+    <MESSAGE value="Chapter 3 - Understanding Model Binding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 - Understanding Model Binding" />
   </component>
 </project>
