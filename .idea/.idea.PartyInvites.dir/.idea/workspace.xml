@@ -4,9 +4,10 @@
     <projectFile>PartyInvites.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd04eb4-df3b-4c6c-b51d-8fc861db9ab4" name="Default Changelist" comment="Chapter 3 - Understanding Model Binding">
-      <change afterPath="$PROJECT_DIR$/Views/Home/Thanks.cshtml" afterDir="false" />
+    <list default="true" id="afd04eb4-df3b-4c6c-b51d-8fc861db9ab4" name="Default Changelist" comment="Chapter 3 - Storing Responses and Adding the Thanks View">
+      <change afterPath="$PROJECT_DIR$/Views/Home/ListResponses.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Repository.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/_ONEDRIVE/OneDrive/_Coding/_Projects/Freeman/PartyInvites/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/obj/Debug/net5.0/Razor/Views/Home/Thanks.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/_ONEDRIVE/OneDrive/_Coding/_Projects/Freeman/PartyInvites/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://D:/_ONEDRIVE/OneDrive/_Coding/_Projects/Freeman/PartyInvites/Controllers/HomeController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -28,9 +31,10 @@
       <option value="$PROJECT_DIR$/Models/GuestResponse.cs" />
       <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
       <option value="$PROJECT_DIR$/Views/Home/RsvpForm.cshtml" />
+      <option value="$PROJECT_DIR$/Views/Home/Thanks.cshtml" />
       <option value="$PROJECT_DIR$/Models/Repository.cs" />
       <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
-      <option value="$PROJECT_DIR$/Views/Home/Thanks.cshtml" />
+      <option value="$PROJECT_DIR$/Views/Home/ListResponses.cshtml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vmWeA5OgTEE06ZoYjIYjgENRD6" />
@@ -89,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627167837119</updated>
-      <workItem from="1627167841135" duration="5198000" />
+      <workItem from="1627167841135" duration="5983000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <created>1627167912328</created>
@@ -140,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627222561685</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chapter 3 - Storing Responses and Adding the Thanks View">
+      <created>1627223128245</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627223128245</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +178,7 @@
     <MESSAGE value="Chapter 3 - Building the Form" />
     <MESSAGE value="Chapter 3 - Receiving Form Data" />
     <MESSAGE value="Chapter 3 - Understanding Model Binding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 - Understanding Model Binding" />
+    <MESSAGE value="Chapter 3 - Storing Responses and Adding the Thanks View" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 3 - Storing Responses and Adding the Thanks View" />
   </component>
 </project>
